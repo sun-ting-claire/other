@@ -8,8 +8,9 @@ User Researcher
     * P1.2 user researcher VS market researcher
     * P2.1 UCD Theory
     * P2.2 Donald Norman's three level of Design
-    * P4.1 What are user researchers' tasks?
+    * P4.1 Who do the user researching job and what are user researchers' tasks?
       * The stages of Product Development 
       * The problems in every stage
       * How do user researchers solve the problems?
-    * P4.2 Who is user researcher in the team?
+    * P4.2 The process of user researching
+* [03 Excel做数据爬取和3DMap可视化](https://github.com/sun-ting-claire/user-researcher/tree/main/note)
