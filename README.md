@@ -14,4 +14,9 @@ User Researcher
       * How do user researchers solve the problems?
     * P4.2 Who do the user researching job?
     * P5 The process of user researching
+    * P9 Methods to do the user research
+    * P10.1 defination of qualitative research
+    * P10.2 qualitative research VS quantitative research
+    * P10.3 when do we apply qualitative research 
+    * P11-14 qualitative research---interview
 * [03 Excel做数据爬取和3DMap可视化](https://github.com/sun-ting-claire/user-researcher/tree/main/note)
