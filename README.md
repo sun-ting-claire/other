@@ -18,6 +18,6 @@ User Researcher
     * P10.1 defination of qualitative research
     * P10.2 qualitative research VS quantitative research
     * P10.3 when do we apply qualitative research 
-    * P11-14 qualitative research---interview（in-depth interview, ）
+    * P11-14 qualitative research---interview（in-depth interview, focus group, others）
     
 * [03 Excel做数据爬取和3DMap可视化](https://github.com/sun-ting-claire/user-researcher/tree/main/note)
