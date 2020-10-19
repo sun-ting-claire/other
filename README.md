@@ -19,5 +19,7 @@ User Researcher
     * P10.2 qualitative research VS quantitative research
     * P10.3 when do we apply qualitative research 
     * P11-14 qualitative research---interview（in-depth interview, focus group, others）
+    * P16 quatitative research--mood board
+   
     
 * [03 Excel做数据爬取和3DMap可视化](https://github.com/sun-ting-claire/user-researcher/tree/main/note)
