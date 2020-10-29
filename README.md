@@ -26,3 +26,8 @@ User Researcher
    
     
 * [03 Excel做数据爬取和3DMap可视化](https://github.com/sun-ting-claire/user-researcher/tree/main/note)
+* 04 设计调研 戴力农
+    * 前言
+    * 第一章 数据采集
+      * 1.1 观察法
+      * 1.2 单人访谈
