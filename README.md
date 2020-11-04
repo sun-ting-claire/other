@@ -1,4 +1,4 @@
-User Researcher
+User Researcher/Product/
 ==========
 * [01 qualitative research VS quantitative](https://github.com/sun-ting-claire/user-researcher/tree/main/note)
     * video link:https://www.bilibili.com/video/BV16E411g7ux?from=search&seid=13086503447398488651
@@ -23,15 +23,13 @@ User Researcher
     * P17 quatitative research--card sorting
     * p18 quantitative research
     * p19 quantitative research--questionnaire
-   
     
-* [03 Excel做数据爬取和3DMap可视化](https://github.com/sun-ting-claire/user-researcher/tree/main/note)
-* 04 设计调研 戴力农
+* 03 设计调研 戴力农
     * 前言
     * 第一章 数据采集
       * 1.1 观察法
       * 1.2 单人访谈
-* 05 产品经理七大文档
+* 04 产品经理七大文档
     * 产品开发流程
     * p1-p2 用户体验报告
     * p3-p6 竞品分析
